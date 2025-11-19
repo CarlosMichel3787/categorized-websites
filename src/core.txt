@@ -1,1 +1,2 @@
 📚 An organized list of websites categorized by topic
+# guard against empty input
