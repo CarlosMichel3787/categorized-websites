@@ -11,3 +11,4 @@
 - chore: add a note about the defaults
 - docs: add a note about the defaults
 - docs: link the usage section
+- docs: clarify the setup steps
